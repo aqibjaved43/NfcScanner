@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ready_to_scan">Ready to Scan</string>
+
+    <string name="hold_your_device_near_the_nfc_tag">Hold your device near the NFC tag.</string>
+    <string name="cancel">Cancel</string>
+</resources>
